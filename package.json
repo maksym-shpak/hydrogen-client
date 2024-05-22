@@ -12,8 +12,8 @@
     "commit": "npx cz"
   },
   "dependencies": {
-    "@hydrogen/di": "npm:@jsr/hydrogen__di@^1.0.0",
-    "@hydrogen/event-bus": "npm:@jsr/hydrogen__event-bus@^1.0.0",
+    "@hydrogen/di": "npm:@jsr/hydrogen__di@^1.0.1",
+    "@hydrogen/event-bus": "npm:@jsr/hydrogen__event-bus@^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
